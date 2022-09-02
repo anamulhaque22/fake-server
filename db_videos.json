@@ -1,0 +1,535 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "যে ১০ টি ভুল বিগিনার রিয়্যাক্ট ডেভেলপাররা করে থাকেন",
+      "description": "আপনারা যারা বিগিনার হিসেবে রিয়্যাক্ট জেস নিয়ে কাজ করা শুরু করেছেন, তারা রিয়্যাক্ট এর বেশ কিছু কনসেপ্ট ঠিক মতো আয়ত্ত না করতে পারার কারণে বিচিত্র কিছু সমস্যার সম্মুখীন হন এবং শেষ পর্যন্ত বুঝতে না পেরে হতাশ হয়ে পড়েন। তাদের জন্যই এই ভিডিওটি। এই ভিডিওতে আমি এমন ১০টি সমস্যার কথা তুলে ধরেছি যেগুলো বিগিনার হিসেবে আপনারা অহরহ সম্মুখীন হবেন। আশা করি ভিডিওটি দেখলে আপনাদের এই সমস্যাগুলো নিয়ে আর কনফিউশন থাকবেনা।",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/6O4s7v28nlw",
+      "thumbnail": "https://i3.ytimg.com/vi/6O4s7v28nlw/maxresdefault.jpg",
+      "tags": [
+        "javascript",
+        "react",
+        "tips"
+      ],
+      "likes": 3,
+      "unlikes": 0
+    },
+    {
+      "id": 2,
+      "title": "VS Code Snippets - Boost your productivity with User Snippets",
+      "description": "আমরা যখন Visual Studio Code Editor এ কাজ করি তখন অহরহ ব্যবহৃত কোড ব্লক গুলো আমাদের কে বারবার টাইপ করতে হয় এবং সামগ্রিকভাবে চিন্তা করলে এরকম ছোট ছোট ম্যনুয়াল কাজ আমাদের productivity অনেকাংশেই কমিয়ে দেয়। VS Code এর বিল্ট ইন ইউজার স্নিপেট ফিচারের মাধ্যমে আমরা কমন কাজগুলো স্নিপেট আকারে সাজিয়ে রেখে দিতে পারি এবং শর্টকাট কমান্ডের মাধ্যমে বড় বড় কোড ব্লক গুলো নিয়ে আসতে পারি। এই ভিডিওতে আপনারা এটাই জানতে পারবেন যে কিভাবে আমরা Visual Studio Code Editor এ কাস্টম স্নিপেট লিখতে পারি।",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "April 25, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/N-U6AVcIPy4",
+      "thumbnail": "https://i3.ytimg.com/vi/N-U6AVcIPy4/maxresdefault.jpg",
+      "tags": [
+        "vscode",
+        "tips"
+      ],
+      "likes": 11,
+      "unlikes": 11
+    },
+    {
+      "id": 3,
+      "title": "Tailwind CSS 3 tutorial - Upgrade to Tailwind 3 | Tailwind CSS Bangla Tutorial",
+      "description": "Tailwind CSS v3.0 came with incredible performance gains, huge workflow improvements, and a seriously ridiculous number of new features. In this tutorial - I have tried to explain different new features of Tailwind CSS version 3, how to install tailwind css 3, how to upgrade from tailwind v2 to v3 etc.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "March 11, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/4M7D3O2XX4o",
+      "thumbnail": "https://i3.ytimg.com/vi/4M7D3O2XX4o/maxresdefault.jpg",
+      "tags": [
+        "tailwind",
+        "css"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 4,
+      "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Jan 06, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
+      "thumbnail": "https://i3.ytimg.com/vi/dD9O8DnIBj4/maxresdefault.jpg",
+      "tags": [
+        "debounce",
+        "javascript",
+        "tips"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 5,
+      "title": "SASS Tutorial in English - Overview of SASS",
+      "description": "In this video, I have given a high level overview of popular CSS Pre-processor SASS which helps us managing our styles at scale. If you have a basic understanding of CSS & JavaScript, this 10 mins SASS Tutorial will help you getting started with SASS.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Nov 22, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/4tV1Mfi4fMA",
+      "thumbnail": "https://i3.ytimg.com/vi/4tV1Mfi4fMA/maxresdefault.jpg",
+      "tags": [
+        "sass",
+        "css",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 6,
+      "title": "React Router DOM v6 Bangla Tutorial - Breaking Changes - React Router 6 vs 5",
+      "description": "In this React Router DOM v6 Bangla tutorial, you will learn how to install react router dom 6, what are the breaking changes in react router 6, difference between react router 6 vs 5, how to upgrade from react router v5 to react router v6. ",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Nov 08, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/34tjWL9wi4g",
+      "thumbnail": "https://i3.ytimg.com/vi/34tjWL9wi4g/maxresdefault.jpg",
+      "tags": [
+        "react",
+        "router",
+        "javascript"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 7,
+      "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+      "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+      "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
+      "tags": [
+        "tailwind",
+        "css",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 8,
+      "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+      "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+      "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
+      "tags": [
+        "tailwind",
+        "css",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 9,
+      "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+      "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+      "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
+      "tags": [
+        "tailwind",
+        "css",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 10,
+      "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+      "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+      "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
+      "tags": [
+        "tailwind",
+        "css",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 11,
+      "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+      "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+      "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
+      "tags": [
+        "tailwind",
+        "css",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 12,
+      "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+      "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+      "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
+      "tags": [
+        "tailwind",
+        "css",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 13,
+      "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+      "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+      "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
+      "tags": [
+        "tailwind",
+        "css",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 14,
+      "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+      "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+      "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
+      "tags": [
+        "tailwind",
+        "css",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 15,
+      "title": "3.6 Dijkstra Algorithm - Single Source Shortest Path - Greedy Method",
+      "description": "Dijkstra Algorithm for Single Source Shortest Path\nProcedure\nExamples\nTime Complexity\nDrawbacks",
+      "author": "Abdul Bari",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/XB4MIexjvY0",
+      "thumbnail": "https://i.ytimg.com/vi/XB4MIexjvY0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzLELffG2Jy1JYDXvc9F342QUamQ",
+      "tags": [
+        "datastructure",
+        "algorithm",
+        "dijkstra"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 16,
+      "title": "ট্রি - ১ (Tree - 1) - ট্রি-এর প্রাথমিক ধারণা",
+      "description": "ডেটা স্ট্রাকচার ও অ্যালগরিদম সিরিজের এই ভিডিওতে ট্রি নামক ডেটা স্ট্রাকচার নিয়ে আলোচনা করা হয়েছে।",
+      "author": "Tamim Shahriar",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_9T7Q6jyEnDBVEa9UMk_wmIFQcYnpDXzlzGDHesw=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/0I1JVXbHpec",
+      "thumbnail": "https://i.ytimg.com/vi/0I1JVXbHpec/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDt1HVhigVvIfib7gNOKoDUhIpgKg",
+      "tags": [
+        "datastructure",
+        "algorithm",
+        "tree"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 17,
+      "title": "visualization",
+      "description": "  Learn about the best React animation libraries to use in your React apps with @RealToughCandy!. ",
+      "author": "LogRocket",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu-d2fu6TvS_sZBov1zDxWagRavynTQgLlHw3NjA8Q=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/KMf-Cah5B10",
+      "thumbnail": "https://i.ytimg.com/vi/KMf-Cah5B10/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDpVbDVQyKg85RowkY9eLErtgrN-g",
+      "tags": [
+        "React",
+        "data",
+        "visualization",
+        "d3"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 18,
+      "title": "Data visualization in React using React D3",
+      "description": "Curious about data visualization in React? Check out this tutorial to learn about data visualization in React using React D3. ",
+      "author": "LogRocket",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu-d2fu6TvS_sZBov1zDxWagRavynTQgLlHw3NjA8Q=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/YKDIsXA4OAc",
+      "thumbnail": "https://i.ytimg.com/vi/YKDIsXA4OAc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSkCCbI80pgT5E27lR-5jO_7xFEQ",
+      "tags": [
+        "React",
+        "data",
+        "visualization",
+        "d3"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 19,
+      "title": "Linux Operating System - Crash Course for Beginners",
+      "description": "Learn the basics of the Linux Operating System in this crash course for beginners. Linux is a clone of the UNIX operating system, so understanding one is understanding the other. The goal is for you to get a full understanding of how the Linux OS works. If you're still using Windows or Mac OS, you can still learn Linux using a virtual machine.",
+      "author": "freeCodeCamp.org",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu9UWrGceKWaqm8AF89vuxrEt8MO3E59qOoQ785Lew=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/ROjZy1WbCIA",
+      "thumbnail": "https://i.ytimg.com/vi/ROjZy1WbCIA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbcEdQu6kCcwSd_CqFXzvvCFIxKA",
+      "tags": [
+        "tailwind",
+        "css",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 20,
+      "title": "UML Diagrams Full Course (Unified Modeling Language)",
+      "description": "Learn about how to use UML diagrams to visualize the design of databases or systems. You will learn the most widely used Unified Modeling Language diagrams, their basic notation, and applications. UML diagrams are frequently used in software development.",
+      "author": "freeCodeCamp.org",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu9UWrGceKWaqm8AF89vuxrEt8MO3E59qOoQ785Lew=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/WnMQ8HlmeXc",
+      "thumbnail": "https://i.ytimg.com/vi/WnMQ8HlmeXc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoFAQW_w6Ty63IlzRIaSGca9D5gg",
+      "tags": [
+        "uml",
+        "system design"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 21,
+      "title": "Intro to Object Oriented Programming - Crash Course",
+      "description": "Learn the basics of object-oriented programming all in one video.",
+      "author": "freeCodeCamp.org",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu9UWrGceKWaqm8AF89vuxrEt8MO3E59qOoQ785Lew=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/SiBw7os-_zI",
+      "thumbnail": "https://i.ytimg.com/vi/SiBw7os-_zI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5ZpVowMP8DNYQZIceYLE20wmAsg",
+      "tags": [
+        "tailwind",
+        "css",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 22,
+      "title": "freeCodeCamp.org",
+      "description": "Learn how to use Node and Express in this comprehensive course. First, you will learn the fundamentals of Node and Express. Then, you will learn to build a complex Rest API. Finally, you will build a MERN app and other Node projects.",
+      "author": "freeCodeCamp.org",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu9UWrGceKWaqm8AF89vuxrEt8MO3E59qOoQ785Lew=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/Oe421EPjeBE",
+      "thumbnail": "https://i.ytimg.com/vi/Oe421EPjeBE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXCkN1Cu4rFO_0Z0kFmQTe1-xRJQ",
+      "tags": [
+        "tailwind",
+        "css",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 23,
+      "title": "Anjana Vakil: Immutable data structures for functional JS | JSConf EU",
+      "description": "Functional programming has been gaining a lot of popularity in the JS community, and with good reason: rejecting side-effects and mutability - in-place changes to data - helps avoid a lot of headaches. But when you refuse to mutate objects, you have to create a whole new object each time something changes, which can slow things down and eat up memory, making functional programming seem inefficient.\nThat’s where immutable data structures come in - to save the day, and time and space! Also called “persistent data structures”, they help you efficiently make new “modified” versions of immutable objects, by reusing parts of the old object that you don’t need to change.\nIn this talk we’ll take a look at how these data structures work, why they’re fantastic for functional programming, and how we can easily use them in our JS code thanks to libraries like Mori and Immutable.js.",
+      "author": "JSConf",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_xB8zBRHYmD6WBSwvdYXG78eLycaHAoM_ckeoerw=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/Wo0qiGPSV-s",
+      "thumbnail": "https://i.ytimg.com/vi/Wo0qiGPSV-s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpiElgkDVSA-uW-AdPhYebmba34Q",
+      "tags": [
+        "tailwind",
+        "css",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 24,
+      "title": "Asynchrony: Under the Hood - Shelley Vohr - JSConf EU",
+      "description": "This talk will explore the conceptual underpinnings of asynchronous programming options, and the drawbacks and advantages to each. JS has supported callbacks since 2009, and as years have gone by it’s added support for promises, generators, and now async/await. On a surface level, each of these techniques seeks to answer a question of how to access data not immediately available, but a deeper look into how each works on a granular level will show their implementation differences and how these differences affect usage. We’ll also take a look at how intermediate values, and errors are affected by each method. I’ll walk through a series of scenarios so you can better visualize performance differences, and how each method propagates data through the stack and the event loop. Finally, I’ll talk about where the future of async may be headed. Armed with new knowledge from this deep dive, the potentially treacherous road to fully understanding async will hopefully become a smoother ride!",
+      "author": "JSConf",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_xB8zBRHYmD6WBSwvdYXG78eLycaHAoM_ckeoerw=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2021",
+      "duration": "25:00",
+      "views": "106k",
+      "link": "https://www.youtube.com/embed/SrNQS8J67zc",
+      "thumbnail": "https://i.ytimg.com/vi/SrNQS8J67zc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDRu6z-wcro-kw6pk-A1Nk_8-XJQ",
+      "tags": [
+        "tailwind",
+        "css",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 25,
+      "title": "What the heck is the event loop anyway? | Philip Roberts | JSConf EU",
+      "description": "We say things like “don’t block the event loop”, “make sure your code runs at 60 frames-per-second”, “well of course, it won’t work, that function is an asynchronous callback!”",
+      "author": "JSConf",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_xB8zBRHYmD6WBSwvdYXG78eLycaHAoM_ckeoerw=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2021",
+      "duration": "26:49",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/8aGhZQkoFbQ",
+      "thumbnail": "https://i.ytimg.com/vi/8aGhZQkoFbQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyuKcTH_ZjEbhGvFXveEAtHnZdpg",
+      "tags": [
+        "javascript",
+        "event loop"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "title": "javascript"
+    },
+    {
+      "id": 2,
+      "title": "react"
+    },
+    {
+      "id": 3,
+      "title": "tips"
+    },
+    {
+      "id": 4,
+      "title": "vscode"
+    },
+    {
+      "id": 5,
+      "title": "tailwind"
+    },
+    {
+      "id": 6,
+      "title": "css"
+    },
+    {
+      "id": 7,
+      "title": "debounce"
+    },
+    {
+      "id": 8,
+      "title": "sass"
+    },
+    {
+      "id": 9,
+      "title": "ui"
+    },
+    {
+      "id": 10,
+      "title": "router"
+    },
+    {
+      "id": 11,
+      "title": "data structure"
+    },
+    {
+      "id": 12,
+      "title": "algorithm"
+    },
+    {
+      "id": 13,
+      "title": "event loop"
+    },
+    {
+      "id": 14,
+      "title": "uml"
+    }
+  ]
+}
