@@ -1,5 +1,5 @@
-const videos = require("./data/videos");
-const transactions = require("./data/transactions");
+const videos = require("./data/videos.json");
+const transactions = require("./data/transactions.json");
 
 module.exports = {
     videos,
