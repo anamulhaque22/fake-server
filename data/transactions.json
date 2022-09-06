@@ -1,0 +1,118 @@
+{
+  "transactions": [
+    {
+      "name": "Monthly Salary",
+      "type": "income",
+      "amount": 100000,
+      "id": 1
+    },
+    {
+      "name": "HP Pendrive Expense",
+      "type": "expense",
+      "amount": 1500,
+      "id": 2
+    },
+    {
+      "name": "New Ttarnsaction",
+      "type": "income",
+      "amount": 400,
+      "id": 3
+    },
+    {
+      "name": "Meal Cost",
+      "type": "expense",
+      "amount": 3000,
+      "id": 4
+    },
+    {
+      "name": "Rent",
+      "type": "expense",
+      "amount": 4000,
+      "id": 5
+    },
+    {
+      "name": "Utilities",
+      "type": "expense",
+      "amount": 3000,
+      "id": 6
+    },
+    {
+      "name": "Other Cost",
+      "type": "expense",
+      "amount": 2500,
+      "id": 7
+    },
+    {
+      "name": "Shopping",
+      "type": "expense",
+      "amount": 2000,
+      "id": 8
+    },
+    {
+      "name": "Other Income",
+      "type": "income",
+      "amount": 50000,
+      "id": 12
+    },
+    {
+      "name": "Work",
+      "type": "income",
+      "amount": 4000,
+      "id": 14
+    },
+    {
+      "name": "Income 1",
+      "type": "income",
+      "amount": 4000,
+      "id": 15
+    },
+    {
+      "name": "Expense 1",
+      "type": "expense",
+      "amount": 502,
+      "id": 16
+    },
+    {
+      "name": "Expense 2",
+      "type": "expense",
+      "amount": 567,
+      "id": 17
+    },
+    {
+      "name": "Expense 3",
+      "type": "expense",
+      "amount": 6356,
+      "id": 18
+    },
+    {
+      "name": "Expense 4",
+      "type": "expense",
+      "amount": 64,
+      "id": 19
+    },
+    {
+      "name": "Expense 6",
+      "type": "expense",
+      "amount": 53,
+      "id": 20
+    },
+    {
+      "name": "income 4",
+      "type": "income",
+      "amount": 546,
+      "id": 21
+    },
+    {
+      "name": "income 5",
+      "type": "income",
+      "amount": 78,
+      "id": 22
+    },
+    {
+      "name": "income 6",
+      "type": "income",
+      "amount": 7867,
+      "id": 23
+    }
+  ]
+}
