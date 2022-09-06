@@ -1,5 +1,4 @@
-{
-  "videos": [
+[
     {
       "id": 1,
       "title": "যে ১০ টি ভুল বিগিনার রিয়্যাক্ট ডেভেলপাররা করে থাকেন",
@@ -473,63 +472,4 @@
       "likes": 0,
       "unlikes": 0
     }
-  ],
-  "tags": [
-    {
-      "id": 1,
-      "title": "javascript"
-    },
-    {
-      "id": 2,
-      "title": "react"
-    },
-    {
-      "id": 3,
-      "title": "tips"
-    },
-    {
-      "id": 4,
-      "title": "vscode"
-    },
-    {
-      "id": 5,
-      "title": "tailwind"
-    },
-    {
-      "id": 6,
-      "title": "css"
-    },
-    {
-      "id": 7,
-      "title": "debounce"
-    },
-    {
-      "id": 8,
-      "title": "sass"
-    },
-    {
-      "id": 9,
-      "title": "ui"
-    },
-    {
-      "id": 10,
-      "title": "router"
-    },
-    {
-      "id": 11,
-      "title": "data structure"
-    },
-    {
-      "id": 12,
-      "title": "algorithm"
-    },
-    {
-      "id": 13,
-      "title": "event loop"
-    },
-    {
-      "id": 14,
-      "title": "uml"
-    }
   ]
-}

@@ -1,8 +1,7 @@
 const data = require("./db.js");
-const { videos, transactions } = data
 const jsonServer = require("json-server");
 const server = jsonServer.create();
-const router = jsonServer.router(videos, transactions);
+const router = jsonServer.router(data);
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 9000;
 
